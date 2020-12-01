@@ -1,9 +1,11 @@
 # drunkmachine
 Construction d'une machine à cocktail
 
-Le but de cette est d'apprend a se servir de différents outils tel que les ecrans LCD, boutons poussoirs et les relais.
+Auteur: Louis D
 
-Materiel de départ:
+Le but de cette est d'apprend a se servir de differents outils tel que les ecrans LCD, boutons poussoirs et les relais.
+
+Materiel de depart:
 ===================
 
 - 2 arduinos UNO
