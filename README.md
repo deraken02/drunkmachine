@@ -23,7 +23,8 @@ Beaucoup de materiel de recup' notamment le joystick shield et l'ecran (qui va m
 Premiere Etape: La recherche de cocktail
 ========================================
 
-Je voudrais un minimim de boissons de bases pour donner un maximum de cocktails.
+Je voudrais un minimu
+m de boissons de bases pour donner un maximum de cocktails.
 
 Internet etant mon ami et n'etant pas barman j'ai fait un grand tableau excel contenant mes resultat (cf cocktail.xls)
 
